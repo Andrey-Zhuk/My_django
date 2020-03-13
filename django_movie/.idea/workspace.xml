@@ -2,29 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6300365-bb52-437b-b45d-a60f4e771432" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../add/blog/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/.idea/blog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/blog1/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../add/blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_movie/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_movie/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_movie/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_movie/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -39,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,9 +49,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1051" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1584082048760">
+    <state x="897" y="276" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584099654754">
       <screen x="0" y="27" width="1920" height="889" />
     </state>
-    <state x="1051" y="299" key="com.intellij.ide.util.TipDialog/0.27.1920.889@0.27.1920.889" timestamp="1584082048760" />
+    <state x="897" y="276" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.889@0.27.1920.889" timestamp="1584099654754" />
+    <state x="1205" y="229" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584101951298">
+      <screen x="0" y="27" width="1920" height="889" />
+    </state>
+    <state x="1205" y="229" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.889@0.27.1920.889" timestamp="1584101951298" />
+    <state x="690" y="106" key="SettingsEditor" timestamp="1584102862408">
+      <screen x="0" y="27" width="1920" height="889" />
+    </state>
+    <state x="690" y="106" key="SettingsEditor/0.27.1920.889@0.27.1920.889" timestamp="1584102862408" />
+    <state x="1051" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1584103021805">
+      <screen x="0" y="27" width="1920" height="889" />
+    </state>
+    <state x="1051" y="299" key="com.intellij.ide.util.TipDialog/0.27.1920.889@0.27.1920.889" timestamp="1584103021805" />
   </component>
 </project>
