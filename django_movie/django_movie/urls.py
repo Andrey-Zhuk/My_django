@@ -22,3 +22,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('blog/', include("blog.urls"))
 ]
+
+# запуск - source venv/bin/activate
+# ./manage.py runserver 5000
