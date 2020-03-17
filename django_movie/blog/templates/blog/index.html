@@ -1,10 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Indext page</title>
-</head>
-<body>
-    <h1>Heello world</h1>
-</body>
-</html>
+
+
+{% extends "blog/base_blog.html" %}
+
+
+
+{% block title %}
+    Posts list
+{% endblock %}
+
+{% block content %}
+    <h1 class="mb-5">Posts:</h1>
+    {% for nam in name %}
+        <p>
+            {{ nam }}
+        </p>
+    {% endfor %}
+{% endblock %}
+
