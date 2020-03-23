@@ -7,10 +7,9 @@ class ObjectDetailMixin:
     model = None
     template = None
 
-
     def get(self, reguest, slug):
         obj = get_object_or_404(self.model, slug__iexact=slug)
-        return render(reguest, self.template, context={"post": post})
+        return render(reguest, self.template, context={self.model.__name__.lower(): obj})
 
 
 
