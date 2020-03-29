@@ -10,7 +10,7 @@ from .forms import TagForm, PostForm
 
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.core.paginator import Paginator
-
+from django.db.models import Q
 def posts_list(request):
     posts = Post.objects.all()
     paginator = Paginator(posts, 10)
